@@ -1,0 +1,4 @@
+tcpdump is a common packet analyzer that runs under the command line. 
+It allows the user to intercept and display TCP/IP and other packets 
+being transmitted or received over a network to which the computer is 
+attached. Distributed under the BSD license, tcpdump is free software.
